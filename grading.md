@@ -1,4 +1,4 @@
-# Samoojo (13.5/15P)
+# Samoojo (14.5/15P)
 
 ## 1 - DIPPID Sender (4.5/5P)
 * packets arrive at the receiving end and their format is compatible to DIPPID
@@ -12,9 +12,9 @@
 * the program runs robustly without bugs
     * yep (1P)
 
-## 2 - 2D Game (9/10P)
+## 2 - 2D Game (10/10P)
 * all important features of the game are implemented, it runs robustly and no bugs occur
-    * self-collision detection should be more consistent and boundaries should also be detected (2P)
+    * okay (3P)
 * input with DIPPID works
     * yep (2P)
 * the code is well-structured and readable
